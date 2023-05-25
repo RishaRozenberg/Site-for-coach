@@ -1,0 +1,50 @@
+.foot_circle1:hover {
+    background-color: #1025A1;
+}
+
+.foot_circle1:hover .hover_icon1 {
+    display: block;
+}
+
+.foot_circle1:hover .foot_icon1 {
+    display: none;
+}
+
+.foot_circle2:hover {
+    background-color: #1025A1;
+}
+
+.foot_circle2:hover .hover_icon2 {
+    display: block;
+}
+
+.foot_circle2:hover .foot_icon2 {
+    display: none;
+}
+
+.foot_circle3:hover {
+    background-color: #1025A1;
+}
+
+.foot_circle3:hover .hover_icon3 {
+    display: block;
+}
+
+.foot_circle3:hover .foot_icon3 {
+    display: none;
+}
+
+.foot_circle4:hover {
+    background-color: #1025A1;
+}
+
+.foot_circle4:hover .hover_icon4 {
+    display: block;
+}
+
+.foot_circle4:hover .foot_icon4 {
+    display: none;
+}
+
+
+
