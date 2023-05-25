@@ -1,9 +1,8 @@
-/* 1. Colors
-2. Fonts
-3. Buttons */
+/* 1. Fonts
+2. Buttons */
 
 
-/* 2. Fonts */
+/* 1. Fonts */
 
 .headline {
     font-family: 'Josefin Sans', sans-serif;
@@ -60,7 +59,7 @@
 }
 
 
-/* 3. Buttons */
+/* 2. Buttons */
 /*тень у кнопок #1025a125 */
 
 .button {

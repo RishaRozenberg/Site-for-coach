@@ -483,7 +483,7 @@ form {
 
 .form_for_shadow {
     box-shadow: 0px 40px 80px #1025a125;
-    background-color: none;
+    background-color: transparent;
 }
 
 #sev_in,
